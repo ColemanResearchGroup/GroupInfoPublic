@@ -8,7 +8,7 @@ Contributors: Joni Coleman
 
 This document lays out the agreed rights and expectations of every member of the research group, with the aim of ensuring an inclusive, diverse, and collaborative environment in which members feel supported and enjoy their work. This is a living document, and is expected to alter over time as members contribute from their own experiences towards continually achieving that aim.
 
-Version 0 of this document has been written by Joni alone. As such, it sets out aspirational goals for how the research group will run, but is not expected to be perfect. It is inherently limited by Joni's life experiences, and the privileges he benefits from within a society designed by and for people with similar identities to his own. With reference to the expectation of **diversity** below, this document will not be considered complete (and so move onto version 1) until it has contributions from multiple members with more diverse viewpoints.
+Version 0 of this document has been written by Joni alone. As such, it sets out aspirational goals for how the research group will run, but is not expected to be perfect. It is inherently limited by Joni's life experiences, and the privileges he benefits from within a society designed by and for people with similar identities to his own. With reference to the expectation of [**diversity**](Culture_Rights_Expectations.md#diversity) below, this document will not be considered complete (and so move onto version 1) until it has contributions from multiple members with more diverse viewpoints.
 
 ## Our Primary Research Aim
 
